@@ -1,0 +1,109 @@
+/*HTML AND BODY*/
+
+html{
+	scroll-behavior: smooth;
+}
+
+body {
+	padding: 50px 0px 0px 0px;
+	font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+img{
+	max-width: 500px;
+}
+
+div{
+	padding-top: 5px;
+}
+
+/*HEADERS*/
+
+h1{
+	font-size: 75px;
+	color: #fff;
+}
+
+h2{
+	color: #444269;
+}
+
+h3{
+	font-size: 30px;
+	color: #fff;
+}
+
+h4{
+	font-style: italic;
+	color: #888;
+	font-size: 15px;
+}
+
+h5{
+	font-size: 13px;
+}
+
+
+
+/*CUSTOM CLASSES*/
+
+.navbar{
+	background: #444269;
+	color: #fff;
+	padding-right: 30px;
+}
+
+.title{
+  background-image: url('http://www.usclimateplan.org/wp-content/uploads/2018/11/night-sky-100-best-free-star-and-wallpaper-practical-wallpapers-new-2.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  text-align: center;
+  height: 400px;
+}
+
+.overview-section,
+.process-section,
+.conclusion-section{
+	background: #ccc;
+}
+
+.launch-section,
+.work-section,
+footer{
+	background: #eee;
+}
+
+.launch-phases{
+	text-align: center;
+}
+
+.launch-images{
+	max-height: 30px;
+	max-width: 65px;
+}
+
+.process-rows{
+	padding-bottom: 100px;
+}
+
+.process-images{
+	max-width: 100px;
+}
+
+.process-images-2{
+	max-width: 50px;
+}
+
+.process-images-6{
+	max-width: 150px;
+}
+
+.container{
+	padding: 100px 20%;
+}
+
+footer{
+	padding: 20px 10%;
+}
